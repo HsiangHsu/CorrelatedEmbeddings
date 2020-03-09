@@ -1,2 +1,1 @@
-# 2019 The 22nd International Conference on Artificial Intelligence and Statistics (AISTATS)
-## This repository contains codes for the experiments in Hsiang Hsu, Salman Salamatian, and Flavio Calmon. "Correspondence Analysis Using Neural Networks".
+## This repository contains codes for the experiments in Hsiang Hsu, Salman Salamatian, and Flavio Calmon. "Correlated Embeddings of Pairs of Dependent Random Variables".
